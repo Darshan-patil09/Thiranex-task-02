@@ -1,0 +1,11 @@
+tenure_months,monthly_charge,support_tickets_3m,contract_type,internet_service,actual_churn,predicted_churn,predicted_churn_probability
+48,90.62,3,Monthly,Fiber,0,1,0.6076
+29,43.18,0,Two-year,DSL,0,0,0.2092
+59,93.09,2,Two-year,DSL,1,0,0.2451
+6,36.85,1,Annual,DSL,0,0,0.393
+22,57.01,6,Annual,Fiber,0,1,0.6759
+32,80.49,3,Monthly,DSL,0,1,0.6773
+42,98.81,0,Monthly,Fiber,0,1,0.5219
+10,48.15,2,Monthly,,0,1,0.7263
+49,42.11,2,Two-year,DSL,0,0,0.1551
+34,73.74,3,Annual,Fiber,1,0,0.4459
